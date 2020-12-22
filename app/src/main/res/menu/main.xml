@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.BaseActivity">
+
+
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_menu"
+        android:title="menu"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/Home"
+                android:title="Home"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_home"
+                />
+
+            <item android:id="@+id/Refresh"
+                android:title="Refresh"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_refresh"
+                />
+
+            <item
+                android:title="Back"
+                android:id="@+id/back"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_previous"
+                />
+
+            <item
+                android:title="Previous"
+                android:id="@+id/previous"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_back"
+
+                />
+
+            <item android:id="@+id/Share"
+                android:title="Share"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_share"
+                />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "997054630348",
+    "firebase_url": "https://backbenchers-inc.firebaseio.com",
+    "project_id": "backbenchers-inc",
+    "storage_bucket": "backbenchers-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:849c0241a159ddbe",
+        "android_client_info": {
+          "package_name": "com.faysal.atsinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-2mv8g9d99ah3tepn880lafl234v2t1ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.atsinfo",
+            "certificate_hash": "850f2f2cf1606d4a75b1c09ef42eddcdf4d10005"
+          }
+        },
+        {
+          "client_id": "997054630348-nnn246iq6bo4os1c19qjhqrtsl2h6qdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.atsinfo",
+            "certificate_hash": "466fcaff195c0d7bbbb8d024b8e766ca0c0c806a"
+          }
+        },
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:a03a1ae3afa8b726",
+        "android_client_info": {
+          "package_name": "com.faysal.besttones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-v41gjt9a5rvfh68jh1u95hfmehj3m12p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.besttones",
+            "certificate_hash": "8b5c01277d0073d2b4ec2f015f10654f3c7b0778"
+          }
+        },
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:b84c43b9565cf3d8713569",
+        "android_client_info": {
+          "package_name": "com.faysal.callrecoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:d6c671c6c5b48177713569",
+        "android_client_info": {
+          "package_name": "com.faysal.fbbio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-1fgdlpvfhr8dvfrdutb2fid5nj4da6et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.fbbio",
+            "certificate_hash": "ab429848d7b3903d7cd9560d42392807f295c158"
+          }
+        },
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:3ef638f217e73717",
+        "android_client_info": {
+          "package_name": "com.faysal.quickxs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-ctj490s5nrif90eab04gii4nk05tfu65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.quickxs",
+            "certificate_hash": "8b5c01277d0073d2b4ec2f015f10654f3c7b0778"
+          }
+        },
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997054630348:android:e9ddfe302d74d2cd713569",
+        "android_client_info": {
+          "package_name": "com.faysal.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997054630348-ocg2ctpdhq4deptlmlrqo6ie1m7rrso2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faysal.webview",
+            "certificate_hash": "33fcd33aad9ca207ba8f0135c00733c3338938af"
+          }
+        },
+        {
+          "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRaTucL2o9421nYmO7pMv8AdN8C2-mbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997054630348-0luh0i5cp1vrgmr9noonklpti26opd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

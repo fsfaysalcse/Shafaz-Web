@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/splash_image"
+    android:id="@+id/splash"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".SplashActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/about_icon"
+        android:scaleType="centerCrop"
+        android:layout_gravity=""
+        android:padding="50dp"
+        android:visibility="gone"
+        android:layout_marginTop="100dp"
+        />
+
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/spin_kit"
+        style="@style/SpinKitView.FoldingCube"
+        android:padding="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/ProgressBarStyle"
+        android:max="100"
+        android:indeterminate="true"
+        android:progress="0"
+        android:layout_gravity="center"
+        app:SpinKit_Color="@color/white" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@color/white_trans"
+        android:textSize="23dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:layout_marginBottom="50dp"/>
+
+
+
+</FrameLayout>
